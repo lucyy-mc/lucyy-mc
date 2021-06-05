@@ -21,4 +21,4 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           repositories_forks: yes
-          config_output: json
+          #config_output: json

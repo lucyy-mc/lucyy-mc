@@ -17,7 +17,8 @@ jobs:
 
           # Options
           user: lucyy-mc
-          template: classic
+          template: markdown
+          filename: profile.md
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           repositories_forks: yes

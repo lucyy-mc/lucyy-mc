@@ -18,8 +18,9 @@ jobs:
           # Options
           user: lucyy-mc
           template: markdown
-          filename: profile.md
+          filename: profile.json
+          markdown: template.json
+          markdown_cache: .cache
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           repositories_forks: yes
-          config_output: json

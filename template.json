@@ -1,6 +1,0 @@
-{
-  "commits": {{ COMMITS }},
-  "stars": {{ STARGAZERS }},
-  "repos": {{ REPOSITORIES }},
-  "contributed": {{ REPOSITORIES_CONTRIBUTED_TO }}
-}
